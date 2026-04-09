@@ -31,4 +31,4 @@ Due to GitHub file size limitations, the dataset is **not included in this repos
 3. Place all dataset files inside the `data/` folder
 4. Run the notebook or training script
 
-Example structure:
+
